@@ -14,6 +14,13 @@ The purpose of this portion of the lab is to get comfortable using the Arduino I
 
 ### Example 1: Blink
 
+<insert blink video here>
+
+### Example 2: Serial
+
+<insert serial video here>
+
+### Example 3: Temperature Sensing
 
 
 
