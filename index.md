@@ -18,7 +18,9 @@ The purpose of this portion of the lab is to get comfortable using the Arduino I
 
 ### Example 2: Serial
 
-<insert serial video here>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=watch?v=iKPp8C9dj7k&ab_channel=JoshuaMcCrae
+" target="_blank"><img src="http://img.youtube.com/vi/watch?v=iKPp8C9dj7k&ab_channel=JoshuaMcCrae/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ### Example 3: Temperature Sensing
 
