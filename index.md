@@ -28,6 +28,9 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ### Example 4: Pitch Sensing
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=pteChHeaMxI&ab_channel=JoshuaMcCrae" target="_blank"><img src="http://img.youtube.com/vi/pteChHeaMxI&ab_channel=JoshuaMcCrae/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 <insert pitch sensing vid>
 
 
