@@ -14,13 +14,19 @@ The purpose of this portion of the lab is to get comfortable using the Arduino I
 
 ### Example 1: Blink
 
-<insert blink video here>
+[![artemis blink test](http://img.youtube.com/vi/shorts/U8jd9H0t-VI/0.jpg)](http://www.youtube.com/watch?v=shorts/U8jd9H0t-VI)
 
 ### Example 2: Serial
 
 <insert serial video here>
 
 ### Example 3: Temperature Sensing
+
+<insert temp sensing vid>
+
+### Example 4: Pitch Sensing
+
+<insert pitch sensing vid>
 
 
 
