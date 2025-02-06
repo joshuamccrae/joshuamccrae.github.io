@@ -18,7 +18,7 @@ The purpose of this portion of the lab is to get comfortable using the Arduino I
 
 ### Example 2: Serial
 
-[![artemis serial test](http://img.youtube.com/vi/iKPp8C9dj7k&ab_channel=JoshuaMcCrae/0.jpg)](http://www.youtube.com/watch?v=iKPp8C9dj7k&ab_channel=JoshuaMcCrae)
+[![artemis serial test](http://img.youtube.com/vi/iKPp8C9dj7k/0.jpg)](http://www.youtube.com/watch?v=iKPp8C9dj7k&ab_channel=JoshuaMcCrae)
 
 ### Example 3: Temperature Sensing
 
