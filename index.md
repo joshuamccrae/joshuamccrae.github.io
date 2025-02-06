@@ -22,11 +22,11 @@ The purpose of this portion of the lab is to get comfortable using the Arduino I
 
 ### Example 3: Temperature Sensing
 
-[![artemis temp test](http://img.youtube.com/vi/pteChHeaMxI&ab_channel=JoshuaMcCrae/0.jpg)](http://www.youtube.com/watch?v=pteChHeaMxI&ab_channel=JoshuaMcCrae)
+[![artemis temp test](http://img.youtube.com/vi/pteChHeaMxI/0.jpg)](http://www.youtube.com/watch?v=pteChHeaMxI)
 
 ### Example 4: Pitch Sensing
 
-[![artemis pitch test](http://img.youtube.com/vi/CNzyPZD0Jy4&ab_channel=JoshuaMcCrae/0.jpg)](http://www.youtube.com/watch?v=CNzyPZD0Jy4&ab_channel=JoshuaMcCrae)
+[![artemis pitch test](http://img.youtube.com/vi/CNzyPZD0Jy4/0.jpg)](http://www.youtube.com/watch?v=CNzyPZD0Jy4)
 
 
 
