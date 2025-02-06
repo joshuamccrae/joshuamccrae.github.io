@@ -16,6 +16,8 @@ The purpose of this portion of the lab is to get comfortable using the Arduino I
 
 ### Example 1: Blink
 
+In this example, the Artemis recieves a signal from the Arduino IDE to blink it's LED repeatedly until the program is terminated. The blue blinking LED can be seen in action below.
+
 [![artemis blink test](http://img.youtube.com/vi/U8jd9H0t-VI/0.jpg)](http://www.youtube.com/watch?v=U8jd9H0t-VI)
 
 ### Example 2: Serial
@@ -30,6 +32,7 @@ The purpose of this portion of the lab is to get comfortable using the Arduino I
 
 [![artemis pitch test](http://img.youtube.com/vi/CNzyPZD0Jy4/0.jpg)](http://www.youtube.com/watch?v=CNzyPZD0Jy4)
 
+### 
 
 
 
