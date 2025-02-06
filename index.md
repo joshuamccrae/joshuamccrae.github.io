@@ -17,6 +17,7 @@ The purpose of this portion of the lab is to get comfortable using the Arduino I
 ### Example 1: Blink
 [![artemis blink test](http://img.youtube.com/vi/U8jd9H0t-VI/0.jpg)](http://www.youtube.com/watch?v=U8jd9H0t-VI)
 
+
 ### Example 2: Serial
 [![artemis serial test](http://img.youtube.com/vi/iKPp8C9dj7k/0.jpg)](http://www.youtube.com/watch?v=iKPp8C9dj7k)
 
