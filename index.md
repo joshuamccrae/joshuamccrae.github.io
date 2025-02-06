@@ -12,22 +12,18 @@ Hey! My name is Joshua McCrae and I am currently a Mechanical Engineering studen
 
 ### Lab 1A: Setup
 
-The purpose of this portion of the lab is to get comfortable using the Arduino IDE and Sparkfun Apollo 3 board manager. Once I downloaded the Arduino IDE and installed the correct board manager, I was able to connect my Artemis Nano to my laptop and some basic example sketches to it:
+The purpose of this portion of the lab is to get comfortable using the Arduino IDE and Sparkfun Apollo 3 board manager. Once I downloaded the Arduino IDE and installed the correct board manager, I was able to connect my Artemis Nano to my laptop and upload some basic example sketches to it:
 
 ### Example 1: Blink
-
 [![artemis blink test](http://img.youtube.com/vi/U8jd9H0t-VI/0.jpg)](http://www.youtube.com/watch?v=U8jd9H0t-VI)
 
 ### Example 2: Serial
-
 [![artemis serial test](http://img.youtube.com/vi/iKPp8C9dj7k/0.jpg)](http://www.youtube.com/watch?v=iKPp8C9dj7k)
 
 ### Example 3: Temperature Sensing
-
 [![artemis temp test](http://img.youtube.com/vi/pteChHeaMxI/0.jpg)](http://www.youtube.com/watch?v=pteChHeaMxI)
 
 ### Example 4: Pitch Sensing
-
 [![artemis pitch test](http://img.youtube.com/vi/CNzyPZD0Jy4/0.jpg)](http://www.youtube.com/watch?v=CNzyPZD0Jy4)
 
 
