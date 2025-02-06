@@ -18,20 +18,15 @@ The purpose of this portion of the lab is to get comfortable using the Arduino I
 
 ### Example 2: Serial
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=watch?v=iKPp8C9dj7k&ab_channel=JoshuaMcCrae
-" target="_blank"><img src="http://img.youtube.com/vi/watch?v=iKPp8C9dj7k&ab_channel=JoshuaMcCrae/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+[![artemis serial test](http://img.youtube.com/vi/iKPp8C9dj7k&ab_channel=JoshuaMcCrae/0.jpg)](http://www.youtube.com/watch?v=iKPp8C9dj7k&ab_channel=JoshuaMcCrae)
 
 ### Example 3: Temperature Sensing
 
-<insert temp sensing vid>
+[![artemis temp test](http://img.youtube.com/vi/pteChHeaMxI&ab_channel=JoshuaMcCrae/0.jpg)](http://www.youtube.com/watch?v=pteChHeaMxI&ab_channel=JoshuaMcCrae)
 
 ### Example 4: Pitch Sensing
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=pteChHeaMxI&ab_channel=JoshuaMcCrae" target="_blank"><img src="http://img.youtube.com/vi/pteChHeaMxI&ab_channel=JoshuaMcCrae/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-<insert pitch sensing vid>
+[![artemis pitch test](http://img.youtube.com/vi/CNzyPZD0Jy4&ab_channel=JoshuaMcCrae/0.jpg)](http://www.youtube.com/watch?v=CNzyPZD0Jy4&ab_channel=JoshuaMcCrae)
 
 
 
