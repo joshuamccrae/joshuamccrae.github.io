@@ -40,7 +40,7 @@ Lastly, this example tests the onboard microphone on our Artemis. I increase the
 
 ### Lab 1B - BLE Connection and Notification Handling
 
-In this portion of the lab, my goal was to establish a BLE (Bluetooth Low Energy) connection with my Artemis so that it can communicate wireless with my computer. In order to achieve this, I installed the latest version of Python and upgraded also upgraded pip. In order to send Python code to my computer, I created a virtual environment to use Jupyter Notebooks to make scripts for my code.
+In this portion of the lab, my goal was to establish a BLE (Bluetooth Low Energy) connection with my Artemis so that it can communicate wireless with my computer. In order to achieve this, I installed the latest version of Python and upgraded also upgraded pip. In order to send Python code to my computer, I created a virtual environment to use Jupyter Notebooks to make scripts for my code which I then sent to my Artemis. The next series of images/videos walks through this process.
 
 
 
